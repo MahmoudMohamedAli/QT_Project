@@ -1,0 +1,18 @@
+# ninja log v6
+50	274	7728461146556995	My_Simple_Notepad_autogen/timestamp	790508c6b2ade7f9
+875	5004	7728434088181184	CMakeFiles/My_Simple_Notepad.dir/My_Simple_Notepad_autogen/mocs_compilation.cpp.obj	31148a232d3480c3
+50	274	7728461146556995	D:/Qt_projects/My_Simple_Notepad/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/My_Simple_Notepad_autogen/mocs_compilation.cpp	790508c6b2ade7f9
+50	274	7728461146556995	My_Simple_Notepad_autogen/mocs_compilation.cpp	790508c6b2ade7f9
+50	274	7728461146556995	D:/Qt_projects/My_Simple_Notepad/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/My_Simple_Notepad_autogen/timestamp	790508c6b2ade7f9
+821	935	7728381806015867	My_Simple_Notepad_autogen/EWIEGA46WW/qrc_Resource.cpp	159663e00aacfb8e
+956	1753	7728381806280053	CMakeFiles/My_Simple_Notepad.dir/My_Simple_Notepad_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	24605e219a80d966
+821	935	7728381806015867	D:/Qt_projects/My_Simple_Notepad/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/My_Simple_Notepad_autogen/EWIEGA46WW/qrc_Resource.cpp	159663e00aacfb8e
+880	5254	7728434088181184	CMakeFiles/My_Simple_Notepad.dir/main.cpp.obj	c75ba1b170c37826
+275	8106	7728461148900690	CMakeFiles/My_Simple_Notepad.dir/mainwindow.cpp.obj	5b849acf69aed7e2
+8106	8419	7728461227209108	My_Simple_Notepad.exe	8e9d1d0439162159
+51	259	7728461566026248	My_Simple_Notepad_autogen/timestamp	790508c6b2ade7f9
+51	259	7728461566026248	My_Simple_Notepad_autogen/mocs_compilation.cpp	790508c6b2ade7f9
+51	259	7728461566026248	D:/Qt_projects/My_Simple_Notepad/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/My_Simple_Notepad_autogen/timestamp	790508c6b2ade7f9
+51	259	7728461566026248	D:/Qt_projects/My_Simple_Notepad/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/My_Simple_Notepad_autogen/mocs_compilation.cpp	790508c6b2ade7f9
+260	4752	7728461568206276	CMakeFiles/My_Simple_Notepad.dir/mainwindow.cpp.obj	5b849acf69aed7e2
+4753	4994	7728461613108824	My_Simple_Notepad.exe	8e9d1d0439162159
