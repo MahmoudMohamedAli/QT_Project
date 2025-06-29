@@ -10,5 +10,8 @@
         <file>img/redo.png</file>
         <file>img/save as.png</file>
         <file>img/undo.png</file>
+        <file>img/diskette.png</file>
+        <file>img/information-button.png</file>
+        <file>img/help.png</file>
     </qresource>
 </RCC>

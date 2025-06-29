@@ -94,7 +94,7 @@ void MainWindow::on_actionSave_as_triggered()
     file_path = filename;
     if(!file.open(QFile::WriteOnly |QFile::Text))
     {
-        QMessageBox::warning(this,"..","failed to open file");
+       // QMessageBox::warning(this,"..","");
         return;
     }
     QTextStream out (&file);
@@ -117,5 +117,12 @@ void MainWindow::on_actionNew_triggered()
 void MainWindow::on_actionCut_triggered()
 {
     ui->textEdit->cut();
+}
+
+
+void MainWindow::on_actionhelp_triggered()
+{
+    QString MsgHelp = "Connect to Author Through E-mail: mahmoudalihack.0000@gamil.com";
+    QMessageBox::information(this,"Help", MsgHelp);
 }
 
