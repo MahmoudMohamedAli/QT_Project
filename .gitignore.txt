@@ -1,0 +1,29 @@
+# Ignore build output
+build/
+*.o
+*.obj
+*.exe
+*.dll
+
+# Ignore Qt Creator files
+*.user
+*.pro.user
+.idea/
+.vscode/
+
+# Ignore CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore qrc-generated and moc files
+moc_*
+ui_*
+qrc_*
+
+# Ignore Qt resource files and backups
+*.autosave
+*.log
+*.swp
+*~
