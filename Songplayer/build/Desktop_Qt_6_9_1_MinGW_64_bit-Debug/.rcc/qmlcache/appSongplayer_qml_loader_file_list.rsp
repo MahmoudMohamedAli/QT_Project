@@ -1,0 +1,7 @@
+--resource
+D:/Qt_projects/Songplayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_Songplayer.qrc
+--resource
+D:/Qt_projects/Songplayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appSongplayer_raw_qml_0.qrc
+/qt/qml/Songplayer/Main.qml
+/qt/qml/Songplayer/TextButton.qml
+/qt/qml/Songplayer/AudioInfoBox.qml

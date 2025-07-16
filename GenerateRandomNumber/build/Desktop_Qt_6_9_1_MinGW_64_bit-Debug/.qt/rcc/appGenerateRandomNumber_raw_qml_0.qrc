@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/GenerateRandomNumber/">
+    <file alias="Main.qml">D:/Qt_projects/GenerateRandomNumber/Main.qml</file>
+  </qresource>
+</RCC>
+

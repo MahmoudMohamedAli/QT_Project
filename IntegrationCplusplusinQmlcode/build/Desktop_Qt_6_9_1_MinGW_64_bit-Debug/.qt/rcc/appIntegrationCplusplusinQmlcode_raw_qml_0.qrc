@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/IntegrationCplusplusinQmlcode/">
+    <file alias="Main.qml">D:/Qt_projects/IntegrationCplusplusinQmlcode/Main.qml</file>
+  </qresource>
+</RCC>
+

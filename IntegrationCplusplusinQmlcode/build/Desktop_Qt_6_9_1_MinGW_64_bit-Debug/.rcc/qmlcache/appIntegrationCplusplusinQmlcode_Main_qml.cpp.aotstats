@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 674,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 22
+                    }
+                ],
+                "filePath": "D:/Qt_projects/IntegrationCplusplusinQmlcode/Main.qml"
+            }
+        ],
+        "moduleId": "IntegrationCplusplusinQmlcode(appIntegrationCplusplusinQmlcode)"
+    }
+]

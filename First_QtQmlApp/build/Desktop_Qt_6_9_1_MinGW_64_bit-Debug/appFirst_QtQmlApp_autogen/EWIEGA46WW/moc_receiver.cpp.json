@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "receiver",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "receiver",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "actionPeformed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "receiver.h",
+    "outputRevision": 69
+}

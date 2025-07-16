@@ -1,0 +1,5 @@
+module GenerateRandomNumber
+typeinfo appGenerateRandomNumber.qmltypes
+prefer :/qt/qml/GenerateRandomNumber/
+Main 1.0 Main.qml
+

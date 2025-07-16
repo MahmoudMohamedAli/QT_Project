@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/SimpleButtonApp">D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SimpleButtonApp</file>
+
+  </qresource>
+</RCC>

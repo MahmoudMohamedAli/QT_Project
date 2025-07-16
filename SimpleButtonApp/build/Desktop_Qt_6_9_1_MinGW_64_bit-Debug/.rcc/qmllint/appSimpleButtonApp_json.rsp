@@ -1,0 +1,12 @@
+--bare
+-I
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+D:/QT_installation/6.9.1/mingw_64/qml
+--resource
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_SimpleButtonApp.qrc
+--resource
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appSimpleButtonApp_raw_qml_0.qrc
+D:/Qt_projects/SimpleButtonApp/Main.qml
+--json
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSimpleButtonApp_qmllint.json

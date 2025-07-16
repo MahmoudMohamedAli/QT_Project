@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-37f29b9afa36cc84e766.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleButtonApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-5b590cd213b1546d9d68.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-479b768f67c6a7841425.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bc8f26c44f89c9264086.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-96998e28ecf92a00ba60.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d52893a4d4ef1c59ccd6.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp-Debug-a5b1859d98cd5f202687.json",
+					"name" : "appSimpleButtonApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_autogen-Debug-14aee294b68959dcd102.json",
+					"name" : "appSimpleButtonApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_autogen_timestamp_deps-Debug-b51dbe2c90b678519ab3.json",
+					"name" : "appSimpleButtonApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_copy_qml-Debug-5bdb8c7915109c515580.json",
+					"name" : "appSimpleButtonApp_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_copy_res-Debug-523c16532b09353e4891.json",
+					"name" : "appSimpleButtonApp_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_qmlimportscan-Debug-82db3dafda38baebe360.json",
+					"name" : "appSimpleButtonApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_qmllint-Debug-68c91da5d2c5df4705f4.json",
+					"name" : "appSimpleButtonApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_qmllint_json-Debug-b08b2caf9e1b4eb435d9.json",
+					"name" : "appSimpleButtonApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_qmllint_module-Debug-09ec7ddd3f7c304ea961.json",
+					"name" : "appSimpleButtonApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleButtonApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleButtonApp_qmltyperegistration-Debug-b3035a55540b9912f6f3.json",
+					"name" : "appSimpleButtonApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSimpleButtonApp_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSimpleButtonApp_aotstats_target-Debug-c31ee1e64b8c8036f94b.json",
+					"name" : "module_appSimpleButtonApp_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/Qt_projects/SimpleButtonApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

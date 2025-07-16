@@ -1,0 +1,14 @@
+-rootPath
+D:/Qt_projects/SimpleButtonApp
+-cmake-output
+-output-file
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleButtonApp_build.cmake
+-importPath
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SimpleButtonApp
+-importPath
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-importPath
+D:/QT_installation/6.9.1/mingw_64/qml
+-qrcFiles
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_SimpleButtonApp.qrc
+D:/Qt_projects/SimpleButtonApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appSimpleButtonApp_raw_qml_0.qrc

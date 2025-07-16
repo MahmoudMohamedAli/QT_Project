@@ -1,0 +1,5 @@
+module SimpleButtonApp
+typeinfo appSimpleButtonApp.qmltypes
+prefer :/qt/qml/SimpleButtonApp/
+Main 1.0 Main.qml
+

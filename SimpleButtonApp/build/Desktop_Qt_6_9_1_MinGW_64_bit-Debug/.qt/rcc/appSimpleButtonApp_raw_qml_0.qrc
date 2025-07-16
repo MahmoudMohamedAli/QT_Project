@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SimpleButtonApp/">
+    <file alias="Main.qml">D:/Qt_projects/SimpleButtonApp/Main.qml</file>
+  </qresource>
+</RCC>
+

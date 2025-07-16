@@ -1,0 +1,3 @@
+D:/Qt_projects/First_QtQmlApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appFirst_QtQmlApp_autogen/include/../EWIEGA46WW/moc_ApplicationWindow.cpp.json
+D:/Qt_projects/First_QtQmlApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appFirst_QtQmlApp_autogen/include/../EWIEGA46WW/moc_Sender.cpp.json
+D:/Qt_projects/First_QtQmlApp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appFirst_QtQmlApp_autogen/include/../EWIEGA46WW/moc_receiver.cpp.json

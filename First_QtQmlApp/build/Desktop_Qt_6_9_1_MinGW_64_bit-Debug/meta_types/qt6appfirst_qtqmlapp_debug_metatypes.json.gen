@@ -1,0 +1,72 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ApplicationWindow",
+                "lineNumber": 6,
+                "object": true,
+                "qualifiedClassName": "ApplicationWindow",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "ApplicationWindow.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "Sender",
+                "lineNumber": 6,
+                "object": true,
+                "qualifiedClassName": "Sender",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "emitaction",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Sender.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "receiver",
+                "lineNumber": 6,
+                "object": true,
+                "qualifiedClassName": "receiver",
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "actionPeformed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "receiver.h",
+        "outputRevision": 69
+    }
+]

@@ -1,0 +1,228 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 426,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 14,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 14,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 14,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 5,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "playPause",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 5,
+                        "durationMicroseconds": 402,
+                        "errorMessage": "",
+                        "functionName": "switchToPreviousSong",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 5,
+                        "durationMicroseconds": 448,
+                        "errorMessage": "",
+                        "functionName": "switchToNextSong",
+                        "line": 158
+                    }
+                ],
+                "filePath": "D:/Qt_projects/Songplayer/Main.qml"
+            }
+        ],
+        "moduleId": "Songplayer(appSongplayer)"
+    }
+]

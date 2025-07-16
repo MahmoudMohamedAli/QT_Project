@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ApplicationWindow",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "ApplicationWindow",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ApplicationWindow.h",
+    "outputRevision": 69
+}

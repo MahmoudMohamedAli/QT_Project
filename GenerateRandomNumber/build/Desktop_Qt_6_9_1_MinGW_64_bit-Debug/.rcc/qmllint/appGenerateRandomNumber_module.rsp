@@ -1,0 +1,10 @@
+-I
+D:/Qt_projects/GenerateRandomNumber/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+D:/QT_installation/6.9.1/mingw_64/qml
+--resource
+D:/Qt_projects/GenerateRandomNumber/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_GenerateRandomNumber.qrc
+--resource
+D:/Qt_projects/GenerateRandomNumber/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appGenerateRandomNumber_raw_qml_0.qrc
+--module
+GenerateRandomNumber
