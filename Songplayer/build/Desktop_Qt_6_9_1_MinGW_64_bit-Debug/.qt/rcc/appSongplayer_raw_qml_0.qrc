@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Songplayer/">
-    <file alias="Main.qml">D:/Qt_projects/Songplayer/Main.qml</file>
-    <file alias="TextButton.qml">D:/Qt_projects/Songplayer/TextButton.qml</file>
-    <file alias="AudioInfoBox.qml">D:/Qt_projects/Songplayer/AudioInfoBox.qml</file>
-  </qresource>
-</RCC>
-
