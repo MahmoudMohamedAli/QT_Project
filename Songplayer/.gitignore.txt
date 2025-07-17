@@ -1,0 +1,65 @@
+# Qt build folders
+build/
+build-*/
+debug/
+release/
+
+# Qt generated files
+*.autosave
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.qmlproject.user
+*.qmlproject.user.*
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# moc, rcc, uic generated files
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.qrc.depends
+*.qrc.release
+*.qrc.debug
+
+# Compiler-specific
+*.obj
+*.o
+*.a
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+
+# IDEs and Editor junk
+.idea/
+.vscode/
+*.swp
+*~
+*.log
+
+# CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# QtCreator-specific
+*.creator.*
+*.creator
+*.config
+*.bak
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
