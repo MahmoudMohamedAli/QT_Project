@@ -46,9 +46,9 @@ Window {
       }
 
       songIndex: 0
-      title: "Eine Kleine Nachtmusik"
-      authorName: "Wolfgang Amadeus Mozart"
-      imageColor: "red"
+      title: "Cat1 Song"
+      authorName: "From Cute Cat1"
+      imageSource: "assets/images/song1.jpg"
     }
 
     AudioInfoBox {
@@ -62,9 +62,9 @@ Window {
       }
 
       songIndex: 1
-      title: "Symphone No. 5"
-      authorName: "Ludwig Van Beethoven"
-      imageColor: "yellow"
+      title: "Cat2 Song"
+      authorName: "From Cute cat2"
+      imageSource: "assets/images/song2.jpg"
     }
 
     AudioInfoBox {
@@ -78,9 +78,26 @@ Window {
       }
 
       songIndex: 2
-      title: "Air on the G String"
-      authorName: "Johann Sebastian Bach"
-      imageColor: "purple"
+      title: "Cat3 Song"
+      authorName: "From Cute Cat 3"
+      imageSource: "assets/images/song3.jpg"
+    //  videoSource: "qrc:/Songplayer/assets/videos/video_1.avi"
+    }
+
+    AudioInfoBox {
+      id: fourthSong
+
+      anchors {
+        verticalCenter: parent.verticalCenter
+        left: parent.left
+        right: parent.right
+        margins: 20
+      }
+
+      songIndex: 3
+      title: "Video"
+      authorName: "strange user"
+      videoSource: "assets/videos/video_1.avi"
     }
   }
 
@@ -101,35 +118,35 @@ Window {
 
       spacing: 20
 
-      TextButton {
+      ImageButton {
         id: previousButton
 
-        width: 50
-        height: 50
+        width: 64
+        height: 64
 
-        text: "<"
+        source: "assets/icons/previous_icon.png"
 
         onClicked: playerController.switchToPreviousSong()
       }
 
-      TextButton {
+      ImageButton {
         id: playPauseButton
 
-        width: 75
-        height: 50
+        width: 64
+        height: 64
 
-        text: playerController.playing ? "Pause" : "Play"
+        source: playerController.playing ? "assets/icons/pause_icon.png" : "assets/icons/play_icon.png"
 
         onClicked: playerController.playPause()
       }
 
-      TextButton {
+      ImageButton {
         id: nextButton
 
-        width: 50
-        height: 50
+        width: 64
+        height: 64
 
-        text: ">"
+        source: "assets/icons/next_icon.png"
 
         onClicked: playerController.switchToNextSong()
       }
@@ -140,7 +157,7 @@ Window {
     id: playerController
 
     property int currentSongIndex: 0
-    property int songCount: 3
+    property int songCount: 4
     property bool playing: false
 
     function playPause() {
