@@ -1,4 +1,5 @@
 import QtQuick
+import com.company.PlayerController
 
 Window {
   id: root
@@ -126,7 +127,7 @@ Window {
 
         source: "assets/icons/previous_icon.png"
 
-        onClicked: playerController.switchToPreviousSong()
+        onClicked: PlayerController.switchToPreviousSong()
       }
 
       ImageButton {
@@ -135,9 +136,9 @@ Window {
         width: 64
         height: 64
 
-        source: playerController.playing ? "assets/icons/pause_icon.png" : "assets/icons/play_icon.png"
+        source: PlayerController.playing ? "assets/icons/pause_icon.png" : "assets/icons/play_icon.png"
 
-        onClicked: playerController.playPause()
+        onClicked: PlayerController.playPause()
       }
 
       ImageButton {
@@ -148,36 +149,10 @@ Window {
 
         source: "assets/icons/next_icon.png"
 
-        onClicked: playerController.switchToNextSong()
+        onClicked: PlayerController.switchToNextSong()
       }
     }
   }
 
-  QtObject {
-    id: playerController
 
-    property int currentSongIndex: 0
-    property int songCount: 4
-    property bool playing: false
-
-    function playPause() {
-      playing = !playing
-    }
-
-    function switchToPreviousSong() {
-      if (currentSongIndex > 0) {
-        currentSongIndex--
-      } else {
-        currentSongIndex = songCount - 1
-      }
-    }
-
-    function switchToNextSong() {
-      if (currentSongIndex + 1 >= songCount) {
-        currentSongIndex = 0
-      } else {
-        currentSongIndex++
-      }
-    }
-  }
 }
